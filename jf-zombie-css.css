@@ -797,10 +797,13 @@ a[href*="anidb.net"] {
   margin: 1.5em 0 !important;
 }
 imgLogoIcon {
-  content: url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/logo/jellyfin-logo-light.png) !important;
+  content: url(https://raw.githubusercontent.com/TheKEP/random-apps/refs/heads/main/Kenflix%20Logo.jpg) !important;
 }
 .pageTitleWithLogo {
-  background-image: url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/logo/jellyfin-logo-light.png) !important;
+  background-image: url(https://raw.githubusercontent.com/TheKEP/random-apps/refs/heads/main/Kenflix%20Logo.jpg) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: left center !important;
 }
 .listItem-bottomoverview {
   text-align: justify;
